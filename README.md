@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidgamingvn&label=Profile%20views&color=0e75b6&style=flat" alt="davidgamingvn" /> </p>
 
-- 👨‍💻 All of my projects are available at [my personal website](david-nguyen.vercel.app/) or my github profile
+- 👨‍💻 All of my projects are available at [my personal website](https://david-nguyen.vercel.app/) or my github profile
 
 - 🎓 BS in CS @ ASU '24 🔱
 
