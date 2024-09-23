@@ -90,13 +90,15 @@
   </tr>
 </table>
 
-### 🏆 Hackathon Experiences
+### 💻 Hackathon Experiences
 
 Hackathons I have participated in:
 
 - **sunhacks @ ASU**
 
 - **HackMerced @ UC Merced**
+
+- **HackRice @ Rice University** (🏆*Best use of Auth0*)
 
 **My favourite Technologies:**
 
