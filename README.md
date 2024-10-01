@@ -100,6 +100,10 @@ Hackathons I have participated in:
 
 - **HackRice @ Rice University** (🏆*Best use of Auth0*)
 
+- **MHacks @ University of Michigan**
+
+- **DubHacks @ University of Washington**
+
 **My favourite Technologies:**
 
 <table>
