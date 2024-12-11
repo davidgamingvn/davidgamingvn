@@ -104,6 +104,8 @@ Hackathons I have participated in:
 
 - **DubHacks @ University of Washington**
 
+- **HackUTD @ University of Texas, Dallas** (🏆*3rd prize* - Frontier Internet)
+
 **My favourite Technologies:**
 
 <table>
